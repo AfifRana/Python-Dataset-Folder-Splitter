@@ -9,6 +9,9 @@ train_div = 0.6 # change the value
 val_div = 0.2 # change the value
 test_div = 0.2 # change the value
 
+print("source path : ",destination_path)
+print("destination path : ",destination_path,"\n")
+
 # count files
 #sum_files = len([name for name in os.listdir(source_path) if os.path.isfile(os.path.join(source_path, name))])
 #print(sum_files)
