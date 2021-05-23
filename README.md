@@ -1,6 +1,11 @@
 # Python-Dataset-Folder-Splitter
 For splitting dataset folder e.g. train set, validation set, test set
 
+Steps :
+1. Open the files.
+2. Edit your source path and destination path.
+3. Edit your percentage division for train set, val set, test set.
+
 Example Log
 
 ```
