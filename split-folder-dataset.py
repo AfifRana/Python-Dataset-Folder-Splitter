@@ -9,7 +9,7 @@ train_div = 0.6 # change the value
 val_div = 0.2 # change the value
 test_div = 0.2 # change the value
 
-print("source path : ",destination_path)
+print("source path : ",source_path)
 print("destination path : ",destination_path,"\n")
 
 # count files
