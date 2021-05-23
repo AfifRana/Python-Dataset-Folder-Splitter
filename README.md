@@ -1,5 +1,6 @@
 # Python-Dataset-Folder-Splitter
-For splitting dataset folder e.g. train set, validation set, test set
+For splitting dataset folder e.g. train set, validation set, test set. Especially for dataset with large amount of files, such as images.
+You can run the splitter on your computer or your cloud machine such as Google Colab. Make sure python is installed on your machine.
 
 Steps :
 1. Open the files.
