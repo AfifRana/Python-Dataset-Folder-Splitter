@@ -10,7 +10,7 @@ Steps :
 Example Log
 
 ```
-source path :  /content/data-2
+source path :  /content/data
 destination path :  /content/data-2 
 
 sum of your files :  11504
