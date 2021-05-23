@@ -10,6 +10,9 @@ Steps :
 Example Log
 
 ```
+source path :  /content/data-2
+destination path :  /content/data-2 
+
 sum of your files :  11504
 
 your division 
